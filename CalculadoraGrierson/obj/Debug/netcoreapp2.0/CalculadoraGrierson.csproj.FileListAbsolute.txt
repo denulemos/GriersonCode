@@ -1,0 +1,20 @@
+d:/Tecnoloshe/Grierson/inicio/CalculadoraGrierson/bin/Debug/netcoreapp2.0/CalculadoraGrierson.deps.json
+d:/Tecnoloshe/Grierson/inicio/CalculadoraGrierson/bin/Debug/netcoreapp2.0/CalculadoraGrierson.runtimeconfig.json
+d:/Tecnoloshe/Grierson/inicio/CalculadoraGrierson/bin/Debug/netcoreapp2.0/CalculadoraGrierson.runtimeconfig.dev.json
+d:/Tecnoloshe/Grierson/inicio/CalculadoraGrierson/bin/Debug/netcoreapp2.0/CalculadoraGrierson.dll
+d:/Tecnoloshe/Grierson/inicio/CalculadoraGrierson/bin/Debug/netcoreapp2.0/CalculadoraGrierson.pdb
+d:/Tecnoloshe/Grierson/inicio/CalculadoraGrierson/obj/Debug/netcoreapp2.0/CalculadoraGrierson.csproj.CoreCompileInputs.cache
+d:/Tecnoloshe/Grierson/inicio/CalculadoraGrierson/obj/Debug/netcoreapp2.0/CalculadoraGrierson.AssemblyInfoInputs.cache
+d:/Tecnoloshe/Grierson/inicio/CalculadoraGrierson/obj/Debug/netcoreapp2.0/CalculadoraGrierson.AssemblyInfo.cs
+d:/Tecnoloshe/Grierson/inicio/CalculadoraGrierson/obj/Debug/netcoreapp2.0/CalculadoraGrierson.dll
+d:/Tecnoloshe/Grierson/inicio/CalculadoraGrierson/obj/Debug/netcoreapp2.0/CalculadoraGrierson.pdb
+/Volumes/Seagate Backup Plus Drive/Tecnoloshe/Grierson/inicio/CalculadoraGrierson/bin/Debug/netcoreapp2.0/CalculadoraGrierson.deps.json
+/Volumes/Seagate Backup Plus Drive/Tecnoloshe/Grierson/inicio/CalculadoraGrierson/bin/Debug/netcoreapp2.0/CalculadoraGrierson.runtimeconfig.json
+/Volumes/Seagate Backup Plus Drive/Tecnoloshe/Grierson/inicio/CalculadoraGrierson/bin/Debug/netcoreapp2.0/CalculadoraGrierson.runtimeconfig.dev.json
+/Volumes/Seagate Backup Plus Drive/Tecnoloshe/Grierson/inicio/CalculadoraGrierson/bin/Debug/netcoreapp2.0/CalculadoraGrierson.dll
+/Volumes/Seagate Backup Plus Drive/Tecnoloshe/Grierson/inicio/CalculadoraGrierson/bin/Debug/netcoreapp2.0/CalculadoraGrierson.pdb
+/Volumes/Seagate Backup Plus Drive/Tecnoloshe/Grierson/inicio/CalculadoraGrierson/obj/Debug/netcoreapp2.0/CalculadoraGrierson.csproj.CoreCompileInputs.cache
+/Volumes/Seagate Backup Plus Drive/Tecnoloshe/Grierson/inicio/CalculadoraGrierson/obj/Debug/netcoreapp2.0/CalculadoraGrierson.AssemblyInfoInputs.cache
+/Volumes/Seagate Backup Plus Drive/Tecnoloshe/Grierson/inicio/CalculadoraGrierson/obj/Debug/netcoreapp2.0/CalculadoraGrierson.AssemblyInfo.cs
+/Volumes/Seagate Backup Plus Drive/Tecnoloshe/Grierson/inicio/CalculadoraGrierson/obj/Debug/netcoreapp2.0/CalculadoraGrierson.dll
+/Volumes/Seagate Backup Plus Drive/Tecnoloshe/Grierson/inicio/CalculadoraGrierson/obj/Debug/netcoreapp2.0/CalculadoraGrierson.pdb

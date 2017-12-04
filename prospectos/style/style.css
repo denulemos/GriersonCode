@@ -1,0 +1,111 @@
+
+
+*
+{ margin: 0;
+  padding: 0;}
+
+
+  
+h1, h2, h3, h4, h5, h6 
+{ color: #FFA509;
+  letter-spacing: 0em;
+  padding: 0 0 5px 0;}
+
+h1, h2, h3
+{ font: normal 170% 'lucida sans', arial;
+  margin: 0 0 15px 0;
+  padding: 0 0 5px 0;
+  color: #000;}
+
+h2
+{ font-size: 130%;
+  padding: 9px 0 5px 0;
+  color: #555;}
+
+h3
+{ font-size: 140%;
+  padding: 5px 0 0 0;}
+
+h4, h6
+{ color: #009FBC;
+  padding: 0 0 5px 0;
+  font: normal 110% arial;
+  text-transform: uppercase;}
+
+h5, h6
+{ color: #888;
+  font: normal 95% arial;
+  letter-spacing: normal;
+  padding: 0 0 15px 0;}
+
+
+
+
+
+ol
+{ margin: 8px 0 22px 0;}
+
+ol li
+{ margin: 0 0 11px 20px;}
+
+.left
+{ float: left;
+  width: auto;
+  margin-right: 10px;}
+
+.right
+{ float: right; 
+  width: auto;
+  margin-left: 10px;}
+
+.center
+{ display: block;
+  text-align: center;
+  margin: 20px auto;}
+
+#basic-accordian
+{ padding: 0px;
+  background: #FFF;}
+
+.accordion_headings
+{ padding: 10px 25px 10px 25px;
+  background: #E1E1E1;
+  color: #111;
+  border-top: 1px solid #FFF;
+  border-bottom: 1px solid #CCC;
+  cursor: pointer;
+  font-size: 120%;
+  position: relative;
+  z-index: 20;}
+
+.accordion_headings:hover
+{ background: #E1E1E1;
+  color: rgb(38, 78, 100);}
+
+.accordion_child
+{ padding: 25px;
+  background: #FFF;}
+
+.header_highlight
+{ background: #E1E1E1;
+  color: rgb(78, 155, 228);}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+

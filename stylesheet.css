@@ -2,7 +2,7 @@ body {
 	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
 	font-size: 19px;
     font-weight: 300;
-    background-image: url(http://igualez.com/wp-content/uploads/2014/03/fondo-de-color-verde-claro-hq-morado-azul-perla-fotos-im-genes-hd-y-1988338.jpg);
+    
     background-repeat: no-repeat;
     background-size: cover;
     
@@ -11,7 +11,7 @@ body {
 .navbar navbar-default
 {
     font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-	font-size: 19px;
+	font-size: 14px;
 }
 
 .titulo
